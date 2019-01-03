@@ -12,8 +12,8 @@ h1 {
 }
 
 section {
-  background: gray;
-  margin: 5px;
+  background: #a3a3a3;
+  margin: 10px;
   padding: 0px;
   border: 1px solid black;
 }
@@ -27,26 +27,26 @@ p.content {
 }
 
 p#chicken-p {
-  background: pink;
+  background: #d2a4a3;
 }
 p#beaf-p {
-  background: red;
+  background: #bb5751;
+  color: white;
 }
 p#sushi-p {
-  background: yellow;
+  background: #e6d7a8;
 }
 
 p.title {
   margin: auto;
   color: black;
-  height: 1.5em;
+  height: 1.25em;
   width: 10em;
   text-align: center;
   border:  1px solid black;
-  margin-top: 0px;
-  margin-right: 0px;
+  margin-top: -1px;
+  margin-right: -1px;
   font-size: 1.25em;
-
 }
 
 /* Simple Responsive Framework. */
